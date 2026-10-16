@@ -2,6 +2,8 @@
 
 Keeps a regular TTT theme snapshot in sync with the active [Omarchy](https://omarchy.org) palette.
 
+Contributed by [@danielmrdev](https://github.com/danielmrdev).
+
 TTT reads static themes from `{config}/themes/<name>.json`. This plugin converts Omarchy's active palette into that format and writes it as `omarchy.json`, so the Omarchy look becomes an ordinary TTT theme instead of requiring host-side Omarchy support.
 
 ## How it works

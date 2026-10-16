@@ -2,6 +2,8 @@
 
 Auto-configures [Ruff](https://docs.astral.sh/ruff/) as the formatter for Python files.
 
+Contributed by [@RhenCloud](https://github.com/RhenCloud).
+
 ## Requirements
 
 Install Ruff via pip:

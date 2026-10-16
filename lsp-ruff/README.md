@@ -2,6 +2,8 @@
 
 Auto-configures [Ruff](https://docs.astral.sh/ruff/) as the Python language server for ttt.
 
+Contributed by [@RhenCloud](https://github.com/RhenCloud).
+
 ## Requirements
 
 Install the Ruff binary:
