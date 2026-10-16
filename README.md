@@ -15,6 +15,7 @@ Community plugins for the [ttt terminal text editor](https://github.com/eugenioe
 | [json-viewer](json-viewer/) | JSON tree viewer for the current file |
 | [markdown-preview](markdown-preview/) | Markdown preview panel |
 | [notepad](notepad/) | Scratchpad for quick notes |
+| [omarchy-theme](omarchy-theme/) | Generate a TTT theme snapshot from the active Omarchy palette |
 | [port-finder](port-finder/) | Find and kill processes listening on TCP ports |
 | [todo-scanner](todo-scanner/) | Scan workspace for TODO/FIXME/HACK/NOTE comments |
 
